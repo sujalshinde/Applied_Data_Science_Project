@@ -1,0 +1,52 @@
+=== Random Forest ===
+Accuracy: 0.9708
+              precision    recall  f1-score   support
+
+         1.0       0.99      0.94      0.96       353
+         2.0       0.93      0.98      0.96       317
+         3.0       0.99      0.99      0.99       323
+
+    accuracy                           0.97       993
+   macro avg       0.97      0.97      0.97       993
+weighted avg       0.97      0.97      0.97       993
+
+
+=== Decision Tree ===
+Accuracy: 0.9376
+              precision    recall  f1-score   support
+
+         1.0       0.93      0.92      0.92       353
+         2.0       0.90      0.92      0.91       317
+         3.0       0.98      0.98      0.98       323
+
+    accuracy                           0.94       993
+   macro avg       0.94      0.94      0.94       993
+weighted avg       0.94      0.94      0.94       993
+
+
+=== Logistic Regression ===
+Accuracy: 0.8630
+              precision    recall  f1-score   support
+
+         1.0       0.94      0.86      0.90       353
+         2.0       0.77      0.85      0.81       317
+         3.0       0.88      0.87      0.88       323
+
+    accuracy                           0.86       993
+   macro avg       0.87      0.86      0.86       993
+weighted avg       0.87      0.86      0.86       993
+
+
+=== KNN ===
+Accuracy: 0.9366
+              precision    recall  f1-score   support
+
+         1.0       0.98      0.86      0.92       353
+         2.0       0.86      0.97      0.91       317
+         3.0       0.98      0.99      0.98       323
+
+    accuracy                           0.94       993
+   macro avg       0.94      0.94      0.94       993
+weighted avg       0.94      0.94      0.94       993
+
+
